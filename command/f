@@ -1,0 +1,1 @@
+python /home/disk1/shicuiliang/tool/python/command_execute/command_execute_bash.py $1 $2 $3 $4
